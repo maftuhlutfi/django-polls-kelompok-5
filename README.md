@@ -1,6 +1,9 @@
 # django-polls
 A project that follows django tutorial https://docs.djangoproject.com/en/3.2/intro/
 
+# Database setup
+Our app is using mongodb atlas cloud
+
 ## How to run
 - Create virtual environtment
 - Activate virtual environtment `env\Scripts\activate`
